@@ -1,0 +1,3 @@
+C:/Users/Dan5h/OneDrive/Desktop/Project/Source/cmake-build-debug/CMakeFiles/Source.dir
+C:/Users/Dan5h/OneDrive/Desktop/Project/Source/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dan5h/OneDrive/Desktop/Project/Source/cmake-build-debug/CMakeFiles/rebuild_cache.dir

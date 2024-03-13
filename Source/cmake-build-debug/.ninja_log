@@ -1,0 +1,18 @@
+# ninja log v5
+0	8	0	clean	d3235ac373e24d71
+1506	1867	7319964611284873	Source.exe	773a25296fdc8b91
+1	1504	7319964607646716	CMakeFiles/Source.dir/main.cpp.obj	f480ba06e15b8ba2
+3	618	7320680865158391	Source.exe	e0e00dbdbbe56de5
+3	1424	7320685734981476	CMakeFiles/Source.dir/main.cpp.obj	f480ba06e15b8ba2
+1425	1984	7320685740551484	Source.exe	e0e00dbdbbe56de5
+2	1427	7320687265263099	CMakeFiles/Source.dir/main.cpp.obj	f480ba06e15b8ba2
+1428	1986	7320687270823116	Source.exe	e0e00dbdbbe56de5
+3	1400	7320690952130549	CMakeFiles/Source.dir/main.cpp.obj	f480ba06e15b8ba2
+1400	1969	7320690957806156	Source.exe	e0e00dbdbbe56de5
+3	1466	7320692644939920	CMakeFiles/Source.dir/main.cpp.obj	f480ba06e15b8ba2
+1466	2064	7320692650892106	Source.exe	e0e00dbdbbe56de5
+2	1397	7320695061278479	CMakeFiles/Source.dir/main.cpp.obj	f480ba06e15b8ba2
+2	1535	7320695210270818	CMakeFiles/Source.dir/main.cpp.obj	f480ba06e15b8ba2
+2	567	7320695386724978	Source.exe	e0e00dbdbbe56de5
+2	1410	7320696568019543	CMakeFiles/Source.dir/main.cpp.obj	f480ba06e15b8ba2
+1411	1959	7320696573481090	Source.exe	e0e00dbdbbe56de5
